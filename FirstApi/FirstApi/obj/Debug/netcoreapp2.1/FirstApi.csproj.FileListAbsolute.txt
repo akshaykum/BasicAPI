@@ -1,0 +1,14 @@
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.1\FirstApi.deps.json
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.1\FirstApi.runtimeconfig.json
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.1\FirstApi.runtimeconfig.dev.json
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.1\FirstApi.dll
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.1\FirstApi.pdb
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.csprojAssemblyReference.cache
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.RazorAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.RazorAssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.AssemblyInfoInputs.cache
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.AssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.RazorTargetAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.dll
+C:\Users\Akshay Kumar\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.1\FirstApi.pdb
